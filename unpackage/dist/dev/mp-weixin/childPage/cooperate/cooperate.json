@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "商务合作",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u-list": "/uni_modules/uview-ui/components/u-list/u-list",
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u-input": "/uni_modules/uview-ui/components/u-input/u-input",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-textarea": "/uni_modules/uview-ui/components/u-textarea/u-textarea",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup"
+  }
+}

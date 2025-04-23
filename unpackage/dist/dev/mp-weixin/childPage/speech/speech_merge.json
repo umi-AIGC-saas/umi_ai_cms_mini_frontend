@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "语音合成",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-scroll-list": "/uni_modules/uview-ui/components/u-scroll-list/u-scroll-list",
+    "u-slider": "/uni_modules/uview-ui/components/u-slider/u-slider",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal",
+    "gw-audiott": "/childPage/components/gw-audiott/gw-audiott"
+  }
+}

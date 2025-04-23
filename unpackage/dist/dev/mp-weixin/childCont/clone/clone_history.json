@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "历史记录",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup"
+  }
+}

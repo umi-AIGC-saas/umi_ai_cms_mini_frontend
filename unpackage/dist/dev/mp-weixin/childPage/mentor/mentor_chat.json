@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "对话",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-textarea": "/uni_modules/uview-ui/components/u-textarea/u-textarea",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal",
+    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea",
+    "u-picker": "/uni_modules/uview-ui/components/u-picker/u-picker",
+    "ua-markdown": "/components/ua2-markdown/ua-markdown"
+  }
+}

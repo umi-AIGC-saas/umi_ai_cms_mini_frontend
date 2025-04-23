@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "支付成功",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-input": "/uni_modules/uview-ui/components/u-input/u-input",
+    "u-code": "/uni_modules/uview-ui/components/u-code/u-code",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "t-captcha": "plugin://t-captcha/t-captcha"
+  }
+}

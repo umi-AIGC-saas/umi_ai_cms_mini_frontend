@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "企业AI定制",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "add-know": "/childCont/company/add_know",
+    "add-staff": "/childCont/company/add_staff",
+    "user-manage": "/childCont/company/user_manage",
+    "company-set": "/childCont/company/company_set"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="ua__markdown data-v-0467ccf2"><rich-text space="nbsp" nodes="{{$root.m0}}" data-event-opts="{{[['itemclick',[['handleItemClick',['$event']]]]]}}" binditemclick="__e" class="data-v-0467ccf2"></rich-text></view>

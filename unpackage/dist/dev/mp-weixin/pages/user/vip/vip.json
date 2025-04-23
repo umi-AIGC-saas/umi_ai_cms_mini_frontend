@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "AI商城",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal"
+  }
+}

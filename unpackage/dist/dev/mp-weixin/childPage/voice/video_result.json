@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "音视频转写结果",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-textarea": "/uni_modules/uview-ui/components/u-textarea/u-textarea"
+  }
+}

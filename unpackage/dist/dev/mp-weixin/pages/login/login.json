@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "登录",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "t-captcha": "plugin://t-captcha/t-captcha"
+  }
+}

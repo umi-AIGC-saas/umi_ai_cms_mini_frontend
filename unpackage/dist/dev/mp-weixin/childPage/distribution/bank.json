@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "添加银行卡",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u-input": "/uni_modules/uview-ui/components/u-input/u-input"
+  }
+}

@@ -1,0 +1,42 @@
+
+.title {
+	font-style: normal;
+	font-weight: 600;
+	font-size: 32rpx;
+	color: #333;
+	text-align: center;
+}
+.agree_cont {
+	font-family: 'PingFang SC';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28rpx;
+	line-height: 150%;
+	color: #333;
+	padding: 20px;
+	background: #fff;
+}
+.time {
+	font-family: 'PingFang SC';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28rpx;
+	line-height: 150%;
+	color: #333;
+	text-align: right;
+	margin-top: 30rpx;
+	/* padding: 20px; */
+}
+.argee_title {
+	font-size: 28rpx;
+	font-weight: bold;
+	line-height: 50rpx;
+}
+.argee_title-little {
+	font-size: 25rpx;
+	font-weight: bold;
+}
+._ul {
+	margin: 0;
+}
+

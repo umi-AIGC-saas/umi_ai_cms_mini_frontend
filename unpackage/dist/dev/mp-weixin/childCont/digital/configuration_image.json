@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "配置形象",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u-slider": "/uni_modules/uview-ui/components/u-slider/u-slider"
+  }
+}

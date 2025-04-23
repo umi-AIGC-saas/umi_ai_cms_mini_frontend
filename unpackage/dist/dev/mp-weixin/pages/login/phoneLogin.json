@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "登录",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#fff",
+  "usingComponents": {
+    "u-input": "/uni_modules/uview-ui/components/u-input/u-input",
+    "u--text": "/uni_modules/uview-ui/components/u--text/u--text",
+    "u-toast": "/uni_modules/uview-ui/components/u-toast/u-toast",
+    "u-code": "/uni_modules/uview-ui/components/u-code/u-code",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "t-captcha": "plugin://t-captcha/t-captcha"
+  }
+}

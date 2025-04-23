@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "音频编辑",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-textarea": "/uni_modules/uview-ui/components/u-textarea/u-textarea"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="heads data-v-589748f2"><u-navbar vue-id="8b5b5358-1" title="{{title}}" titleStyle="{{$root.a0}}" bgColor="#fff" placeholder="{{true}}" class="data-v-589748f2" bind:__l="__l" vue-slots="{{['left']}}"><view class="u-nav-slot data-v-589748f2" slot="left"></view></u-navbar></view>

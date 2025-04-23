@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "定制数字人形象",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u-input": "/uni_modules/uview-ui/components/u-input/u-input",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "ba-tree-picker",
+    "displayName": "ba-tree-picker树形层级选择器（支持单选、多选、父级选择、映射）",
+    "version": "1.2",
+    "description": "树形层级选择器，支持单选、多选、父级选择 、Object对象属性自定义映射、自定义样式等，采用弹窗形式，样式和比例参照uniapp官方的picker和uni-data-picker组件",
+    "keywords": [
+        "选择器",
+        "树形",
+        "层级",
+        "多选",
+        "ba-tree-picker"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}

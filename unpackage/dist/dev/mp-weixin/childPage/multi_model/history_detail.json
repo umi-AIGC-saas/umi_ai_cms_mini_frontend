@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "详情",
+  "usingComponents": {
+    "ua-markdown": "/components/ua2-markdown/ua-markdown"
+  }
+}

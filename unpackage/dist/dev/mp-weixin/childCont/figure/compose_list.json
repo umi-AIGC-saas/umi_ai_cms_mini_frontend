@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "语音列表",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "audio": "/childCont/components/audio/audio",
+    "ssdownload": "/childCont/components/ss-download/ss-download"
+  }
+}

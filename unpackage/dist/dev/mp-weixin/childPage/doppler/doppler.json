@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "彩超宝宝",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-loading-icon": "/uni_modules/uview-ui/components/u-loading-icon/u-loading-icon",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  }
+}

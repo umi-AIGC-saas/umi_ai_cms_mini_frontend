@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "语音合成",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea",
+    "u-slider": "/uni_modules/uview-ui/components/u-slider/u-slider"
+  }
+}

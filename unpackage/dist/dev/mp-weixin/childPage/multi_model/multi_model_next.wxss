@@ -1,0 +1,294 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.container.data-v-b237504c {
+  background: #fff;
+  width: 100%;
+  height: 100vh;
+  /* padding: 100upx 60upx; */
+  padding-top: 100rpx;
+}
+.phoneLogin.data-v-b237504c {
+  margin-top: 20px;
+  font-family: 'PingFang SC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  text-align: center;
+  color: #333333;
+}
+.logo.data-v-b237504c {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.logo_img.data-v-b237504c {
+  width: 140rpx;
+  height: 140rpx;
+}
+.logo_text.data-v-b237504c {
+  font-family: 'PingFang SC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+  color: #333;
+  padding: 40rpx 0 100rpx 0;
+}
+.logo_btn.data-v-b237504c {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #51B13E;
+  border-radius: 48rpx;
+  width: calc(100% - 80rpx);
+}
+.logo_btn .btn_img.data-v-b237504c {
+  width: 58rpx;
+  height: 58rpx;
+  margin-right: 13px;
+}
+.logo_btn .btn_text.data-v-b237504c {
+  font-family: 'PingFang SC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32rpx;
+  line-height: 96rpx;
+  padding-left: 20rpx;
+  color: #fff;
+}
+.agree.data-v-b237504c {
+  /* // text-align: center; */
+  /* position: absolute;
+	bottom:100upx;
+	left: 0;
+	right: 0; */
+  padding-top: 30rpx;
+}
+.agree .agree_text.data-v-b237504c {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26rpx;
+  color: #222;
+}
+.agree .agree_text_right.data-v-b237504c {
+  font-family: 'PingFang SC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26rpx;
+  color: #1F64FF;
+}
+
+.robot.data-v-20a5664d {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.robot .robot_text.data-v-20a5664d {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.robot .robot_text .pic.data-v-20a5664d {
+  width: 60rpx;
+  height: 60rpx;
+}
+.robot .robot_text .title.data-v-20a5664d {
+  color: #242F49;
+  font-size: 36rpx;
+  font-weight: 500;
+  line-height: 150%;
+}
+.robot .tips.data-v-20a5664d {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.robot .tips .item.data-v-20a5664d {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.robot .tips .item image.data-v-20a5664d {
+  width: 48rpx;
+  height: 48rpx;
+}
+.robot .tips .item .text.data-v-20a5664d {
+  color: #3F3F3F;
+  font-size: 22rpx;
+  font-weight: 400;
+  line-height: 150%;
+}
+.main.data-v-20a5664d {
+  padding: 40rpx;
+  background-color: #fff;
+  height: 90vh;
+  margin-top: 52rpx;
+}
+.main .main_title.data-v-20a5664d {
+  margin-bottom: 34rpx;
+}
+.main .main_title .top.data-v-20a5664d {
+  display: flex;
+  align-items: center;
+}
+.main .main_title .top .left.data-v-20a5664d {
+  width: 3px;
+  height: 18px;
+  background: #1F64FF;
+}
+.main .main_title .top .middle.data-v-20a5664d {
+  color: #393E45;
+  font-size: 32rpx;
+  font-weight: 600;
+  margin: 0 20rpx 0 16rpx;
+}
+.main .main_title .top image.data-v-20a5664d {
+  width: 32rpx;
+  height: 32rpx;
+}
+.main .roleItem.data-v-20a5664d {
+  margin-right: 32rpx;
+  text-align: center;
+}
+.main .roleItem .roleItem_icon.data-v-20a5664d {
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 14.5rpx;
+  border: 2rpx solid #DBDBDB;
+  background: #FFF;
+  position: relative;
+  text-align: center;
+}
+.main .roleItem .roleItem_icon .roleNum.data-v-20a5664d {
+  width: 37rpx;
+  height: 37rpx;
+  background: #1F64FF;
+  border-radius: 50%;
+  color: #FFF;
+  font-size: 26rpx;
+  font-weight: 500;
+  position: absolute;
+  top: 10rpx;
+  left: 10rpx;
+}
+.main .roleItem .roleItem_icon .roleDel.data-v-20a5664d {
+  position: absolute;
+  right: -6rpx;
+  top: -6rpx;
+}
+.main .roleItem .roleItem_icon .roleDel image.data-v-20a5664d {
+  width: 40rpx;
+  height: 40rpx;
+}
+.main .roleItem .roleItem_icon .roleLogo.data-v-20a5664d {
+  position: absolute;
+  top: 28%;
+  left: 23%;
+}
+.main .roleItem .roleItem_icon .roleLogo image.data-v-20a5664d {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+}
+.main .role_content.data-v-20a5664d {
+  color: #000;
+  font-size: 24rpx;
+  font-weight: 400;
+  line-height: 150%;
+}
+.main .roleLast.data-v-20a5664d {
+  text-align: center;
+}
+.main .roleLast image.data-v-20a5664d {
+  width: 150rpx;
+  height: 150rpx;
+}
+.main .int.data-v-20a5664d {
+  display: flex;
+  padding: 36rpx 48rpx;
+  border: 3rpx solid #E8EAEC;
+  border-radius: 17rpx;
+}
+.main .int .int_l.data-v-20a5664d {
+  margin-right: 144rpx;
+  color: #222;
+  font-size: 28rpx;
+  font-weight: 400;
+}
+.main .int2.data-v-20a5664d {
+  display: flex;
+  padding: 36rpx 48rpx;
+  border: 3rpx solid #1F64FF;
+  border-radius: 17rpx;
+}
+.main .int2 .int_l.data-v-20a5664d {
+  margin-right: 144rpx;
+  color: #222;
+  font-size: 28rpx;
+  font-weight: 400;
+}
+.cpt.data-v-20a5664d {
+  display: flex;
+  margin-top: 26rpx;
+  justify-content: space-between;
+}
+.cpt .cpt_item.data-v-20a5664d {
+  width: 180rpx;
+  height: 180rpx;
+  border-radius: 17rpx;
+  border: 2rpx solid #E8EAEC;
+  text-align: center;
+  align-items: center;
+}
+.cpt .cpt_item .cpt_t.data-v-20a5664d {
+  color: #1F64FF;
+  font-size: 44rpx;
+  font-weight: 700;
+  margin-top: 50rpx;
+}
+.cpt .cpt_item .cpt_b.data-v-20a5664d {
+  color: #999;
+  font-size: 24rpx;
+}
+.bottom.data-v-20a5664d {
+  position: fixed;
+  width: 82%;
+  bottom: 21rpx;
+}
+.textarea.data-v-20a5664d {
+  width: 90%;
+  height: 170rpx;
+  padding: 24rpx 34rpx;
+  border: 2rpx solid #D7D9DF;
+  border-radius: 8px;
+  margin-bottom: 20rpx;
+}
+
